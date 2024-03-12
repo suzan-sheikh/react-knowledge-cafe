@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "cover": "https://plus.unsplash.com/premium_photo-1684581214880-2043e5bc8b8b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZyUyMGNvdmVyfGVufDB8fDB8fHww",
+    "title": "Exploring the Wilderness",
+    "author": "Jane Doe",
+    "author_img": "https://media.istockphoto.com/id/1954208054/photo/photo-of-beautiful-happy-smiling-young-woman-wearing-shirt-standing-isolated-over-white.webp?b=1&s=170667a&w=0&k=20&c=k9dQVIqwaCxLgpU24dglV2u2BkcoRV5WJ0pz7koLak8=",
+    "posted": "New York Times",
+    "date": "2024-03-12",
+    "reading": 10,
+    "time": "12:00 PM",
+    "hashtags": ["adventure", "nature", "travel"]
+  },
+  {
+    "id": 2,
+    "cover": "https://images.unsplash.com/photo-1504805572947-34fad45aed93?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxvZyUyMGNvdmVyfGVufDB8fDB8fHww",
+    "title": "The Art of Cooking",
+    "author": "John Smith",
+    "author_img": "https://media.istockphoto.com/id/1954208054/photo/photo-of-beautiful-happy-smiling-young-woman-wearing-shirt-standing-isolated-over-white.webp?b=1&s=170667a&w=0&k=20&c=k9dQVIqwaCxLgpU24dglV2u2BkcoRV5WJ0pz7koLak8=",
+    "posted": "Food Network",
+    "date": "2024-03-10",
+    "reading": 16,
+    "time": "10:30 AM",
+    "hashtags": ["food", "recipes", "cooking"]
+  },
+  {
+    "id": 3,
+    "cover": "https://images.unsplash.com/photo-1542435503-956c469947f6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmxvZyUyMGNvdmVyfGVufDB8fDB8fHww",
+    "title": "Fitness Journey: From Zero to Hero",
+    "author": "Alice Johnson",
+    "author_img": "https://media.istockphoto.com/id/1954208054/photo/photo-of-beautiful-happy-smiling-young-woman-wearing-shirt-standing-isolated-over-white.webp?b=1&s=170667a&w=0&k=20&c=k9dQVIqwaCxLgpU24dglV2u2BkcoRV5WJ0pz7koLak8=",
+    "posted": "Health Magazine",
+    "date": "2024-03-08",
+    "reading": 5,
+    "time": "3:45 PM",
+    "hashtags": ["fitness", "exercise", "health"]
+  },
+  {
+    "id": 4,
+    "cover": "https://images.unsplash.com/photo-1496661415325-ef852f9e8e7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmxvZyUyMGNvdmVyfGVufDB8fDB8fHww",
+    "title": "Tech Trends 2024",
+    "author": "Alex Wang",
+    "author_img": "https://media.istockphoto.com/id/1954208054/photo/photo-of-beautiful-happy-smiling-young-woman-wearing-shirt-standing-isolated-over-white.webp?b=1&s=170667a&w=0&k=20&c=k9dQVIqwaCxLgpU24dglV2u2BkcoRV5WJ0pz7koLak8=",
+    "posted": "TechCrunch",
+    "date": "2024-03-06",
+    "reading": "8 mins",
+    "time": "9:00 AM",
+    "hashtags": ["technology", "innovation", "future"]
+  },
+  {
+    "id": 5,
+    "cover": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGJsb2clMjBjb3ZlcnxlbnwwfHwwfHx8MA%3D%3D",
+    "title": "Mindfulness in Everyday Life",
+    "author": "Emily Jones",
+    "author_img": "https://media.istockphoto.com/id/1954208054/photo/photo-of-beautiful-happy-smiling-young-woman-wearing-shirt-standing-isolated-over-white.webp?b=1&s=170667a&w=0&k=20&c=k9dQVIqwaCxLgpU24dglV2u2BkcoRV5WJ0pz7koLak8=",
+    "posted": "Psychology Today",
+    "date": "2024-03-05",
+    "reading": 8,
+    "time": "2:15 PM",
+    "hashtags": ["mindfulness", "wellness", "psychology"]
+  }
+]

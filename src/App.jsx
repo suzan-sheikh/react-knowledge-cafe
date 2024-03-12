@@ -1,9 +1,12 @@
 import './App.css'
+import Blogs from './component/Blogs/Blogs'
+import Header from './component/Header/Header'
 function App() {
 
   return (
     <>
-      <h1 className="text-3xl font-bold underline bg-red-300 text-center">Vite + React</h1>
+      <Header></Header>
+      <Blogs></Blogs>
     </>
   )
 }
